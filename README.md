@@ -6,3 +6,4 @@ TECHNOLOGIES:
 - TailwindCSS
 
 LIVE:
+https://quote-generator-gw2fasc0r-mikvlll.vercel.app/
